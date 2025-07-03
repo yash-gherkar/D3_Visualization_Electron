@@ -1,0 +1,27 @@
+{
+  "name": "d3-data-visualizations",
+  "version": "1.0.0",
+  "description": "multiple projects using d3 for different types of data visualizations using a variety of public data in json and csv format.  Most use svg.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perossing/d3-data-visualizations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/perossing/d3-data-visualizations/issues"
+  },
+  "homepage": "https://github.com/perossing/d3-data-visualizations#readme",
+  "dependencies": {
+    "d3": "^7.9.0",
+    "electron": "^37.2.0"
+  }
+}
+
